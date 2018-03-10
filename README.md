@@ -4,3 +4,4 @@
 3.Develop changes!
 4.Added in master!
 5.Smashing the BASH!
+7.Yet im creating conflicts!
